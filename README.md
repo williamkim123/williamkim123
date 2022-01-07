@@ -8,7 +8,8 @@ This sentiment goes towards showing how I take on my projects but, also how I vi
 
 #### Books I am currently reading 📚 
 - Music by the Numbers 
-- Freakonomics - Thinking, Fast and Slow 
+- Freakonomics 
+- Thinking, Fast and Slow 
 - Walden
 
 📫 How to reach me: k249kim@uwaterloo.ca or https://www.linkedin.com/in/willkhk/
