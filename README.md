@@ -1,4 +1,4 @@
-### Hi there, my name is William Kyungho Kim 👋
+## Hi there👋 My name is William Kyungho Kim and this is where I post some of the projects I have been working on!
 
 I am a third year Nanotechnology Engineering student passionate about inoovation in healthcare, energy/battery sector. In between I have also fallen love learning about blockchain technology, macroeconomics and many other topics that I like to develop into small projects!  
 
