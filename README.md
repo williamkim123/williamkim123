@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am third year engineering student passionate about inoovation in healthcare, energy/battery sector. In between I have also fallen love learning about blockchain technology, macroeconomics and many other topics that I like to develop into small projects!  
+My name is William Kyungho Kim and I am a third year Nanotechnology Engineering student passionate about inoovation in healthcare, energy/battery sector. In between I have also fallen love learning about blockchain technology, macroeconomics and many other topics that I like to develop into small projects!  
 
 The projects in my github ranges from trading bots and genomic sequencing reader to signal processing. It covers the wide range of interests of mine.  Lastly, I love to learn about new algorithms, to bring about a better solution. 
 
