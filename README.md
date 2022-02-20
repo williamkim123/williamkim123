@@ -11,7 +11,7 @@ Books I am currently reading 📚
 - Music by the Numbers 
 - Freakonomics 
 - Thinking, Fast and Slow 
-- intelligen investor 
+- intelligent investor 
 - Walden
 
 📫 How to reach me: k249kim@uwaterloo.ca or https://www.linkedin.com/in/willkhk/
