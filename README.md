@@ -1,7 +1,6 @@
 ## Hi there👋 
 
-My name is William Kyungho Kim and this is where I post some of the projects I have been working on!
-I am a third year Nanotechnology Engineering student passionate about materials engineering and computing/AI and the endless possibilities to consider when combining the two. In between I have also fallen love with learning about blockchain technology, macroeconomics and many other topics that I like to develop into small projects!  
+My name is William Kyungho Kim a junior studing Nanotechnology Engineering at the University of Waterloo. This is where I post some of the projects I have been working on! I am interested in materials engineering and computing/AI and the endless possibilities when combining the two. In between I have also fallen in love with learning about blockchain technology, macroeconomics and many other topics that I like to develop and showcase here.  
 
 The projects in my github ranges from trading bots and genomic sequencing reader to signal processing. It covers the wide range of interests of mine.  Lastly, I love to learn about new algorithms, to bring about a better solution. 
 
