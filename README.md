@@ -1,4 +1,6 @@
-## Hi there👋 My name is William Kyungho Kim
+## Hi Welcome to my GitHub Account 👋
+
+My name is William Kyungho Kim.
 
 I am a junior studying Nanotechnology Engineering at the University of Waterloo. This is where I post some of the projects I have been working on! I am interested in materials engineering and computing/AI and the endless possibilities for innovative solutions when combining the two. In between I have also invested my time into  learning about blockchain technology, macroeconomics and many other topics that I like to develop and showcase here.  
 
